@@ -1,0 +1,18 @@
+Project Overview:
+This project is based on testing a Weather Forecast API using Postman, a popular API testing tool. The goal is to validate how the API behaves with different inputs and ensure the response is accurate, fast, and structured correctly.
+
+ Objective:
+To perform functional testing on the Weather API.
+
+To test positive and negative scenarios.
+
+To ensure the API handles both valid and invalid inputs correctly.
+
+To check response status codes, response time, and data structure.
+
+ -> Tools & Technologies Used:
+Postman – to create and send API requests.
+
+JavaScript – to write test scripts in the "Tests" tab.
+
+Postman Test Tab – to validate response body, status code, and time.
